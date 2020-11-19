@@ -4,3 +4,16 @@
 /.settings
 /log
 /.idea
+
+*.iml
+target/
+bin/
+.classpath
+.settings
+.project
+.factorypath
+.idea
+*.iws
+*.iml
+*.ipr
+logs/
